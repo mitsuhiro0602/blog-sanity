@@ -2,3 +2,4 @@
 /yarn.lock
 /sanity.json
 /.env.development
+/public
