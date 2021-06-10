@@ -109,8 +109,8 @@ export default createSchema({
 
         },
         {
-          name: 'data',
-          title: 'Data',
+          name: 'date',
+          title: 'Date',
           type: 'datetime',
           validation: (Rule) => { return Rule.required() }
         },
